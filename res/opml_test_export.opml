@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>opml_test_export</title>
+    </head>
+    <body>
+        <outline text="ASSET STATE BLOCKS">
+            <outline text="ASSETS">
+                <outline text="Industry">
+                    <outline text="Restaurant"></outline>
+                </outline>
+                <outline text="Use">
+                    <outline text="Refrigeration"></outline>
+                </outline>
+                <outline text="Use 1">
+                    <outline text="Freezer"></outline>
+                </outline>
+                <outline text="Structure">
+                    <outline text="Upright"></outline>
+                </outline>
+                <outline text="Attribute 1">
+                    <outline text="Glass">
+                        <outline text="Stainless Steel"></outline>
+                    </outline>
+                </outline>
+                <outline text="Access">
+                    <outline text="2 Door"></outline>
+                </outline>
+                <outline text="Manufacturer">
+                    <outline text="TRUE"></outline>
+                </outline>
+                <outline text="Brand">
+                    <outline text="TRUE"></outline>
+                </outline>
+                <outline text="Serial ">
+                    <outline text="78789"></outline>
+                </outline>
+                <outline text="Model">
+                    <outline text="GDM"></outline>
+                </outline>
+                <outline text="Size">
+                    <outline text="72&quot;"></outline>
+                </outline>
+                <outline text="DIMS">
+                    <outline text="l x w x d x cf"></outline>
+                </outline>
+                <outline text="Electronics">
+                    <outline text="Display module"></outline>
+                </outline>
+                <outline text="Sensors">
+                    <outline text="Temp"></outline>
+                    <outline text="Defrost"></outline>
+                </outline>
+                <outline text="Software">
+                    <outline text="Updates">
+                        <outline text="No"></outline>
+                        <outline text="Power">
+                            <outline text="Parts">
+                                <outline text="API'S USED"></outline>
+                            </outline>
+                        </outline>
+                    </outline>
+                    <outline text="On-Board"></outline>
+                </outline>
+                <outline text="Services">
+                    <outline text="Software">
+                        <outline text="Online">
+                            <outline text="Update subscription "></outline>
+                        </outline>
+                    </outline>
+                    <outline text="Onsite">
+                        <outline text="Onsite PM"></outline>
+                    </outline>
+                </outline>
+            </outline>
+        </outline>
+    </body>
+</opml>

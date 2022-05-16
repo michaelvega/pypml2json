@@ -1,0 +1,237 @@
+{
+    "outline": {
+        "outline": {
+            "outline": [
+                {
+                    "outline": {
+                        "attributes": {
+                            "text": "Restaurant"
+                        }
+                    },
+                    "attributes": {
+                        "text": "Industry"
+                    }
+                },
+                {
+                    "outline": {
+                        "attributes": {
+                            "text": "Refrigeration"
+                        }
+                    },
+                    "attributes": {
+                        "text": "Use"
+                    }
+                },
+                {
+                    "outline": {
+                        "attributes": {
+                            "text": "Freezer"
+                        }
+                    },
+                    "attributes": {
+                        "text": "Use 1"
+                    }
+                },
+                {
+                    "outline": {
+                        "attributes": {
+                            "text": "Upright"
+                        }
+                    },
+                    "attributes": {
+                        "text": "Structure"
+                    }
+                },
+                {
+                    "outline": {
+                        "outline": {
+                            "attributes": {
+                                "text": "Stainless Steel"
+                            }
+                        },
+                        "attributes": {
+                            "text": "Glass"
+                        }
+                    },
+                    "attributes": {
+                        "text": "Attribute 1"
+                    }
+                },
+                {
+                    "outline": {
+                        "attributes": {
+                            "text": "2 Door"
+                        }
+                    },
+                    "attributes": {
+                        "text": "Access"
+                    }
+                },
+                {
+                    "outline": {
+                        "attributes": {
+                            "text": "TRUE"
+                        }
+                    },
+                    "attributes": {
+                        "text": "Manufacturer"
+                    }
+                },
+                {
+                    "outline": {
+                        "attributes": {
+                            "text": "TRUE"
+                        }
+                    },
+                    "attributes": {
+                        "text": "Brand"
+                    }
+                },
+                {
+                    "outline": {
+                        "attributes": {
+                            "text": "78789"
+                        }
+                    },
+                    "attributes": {
+                        "text": "Serial "
+                    }
+                },
+                {
+                    "outline": {
+                        "attributes": {
+                            "text": "GDM"
+                        }
+                    },
+                    "attributes": {
+                        "text": "Model"
+                    }
+                },
+                {
+                    "outline": {
+                        "attributes": {
+                            "text": "72\""
+                        }
+                    },
+                    "attributes": {
+                        "text": "Size"
+                    }
+                },
+                {
+                    "outline": {
+                        "attributes": {
+                            "text": "l x w x d x cf"
+                        }
+                    },
+                    "attributes": {
+                        "text": "DIMS"
+                    }
+                },
+                {
+                    "outline": {
+                        "attributes": {
+                            "text": "Display module"
+                        }
+                    },
+                    "attributes": {
+                        "text": "Electronics"
+                    }
+                },
+                {
+                    "outline": [
+                        {
+                            "attributes": {
+                                "text": "Temp"
+                            }
+                        },
+                        {
+                            "attributes": {
+                                "text": "Defrost"
+                            }
+                        }
+                    ],
+                    "attributes": {
+                        "text": "Sensors"
+                    }
+                },
+                {
+                    "outline": [
+                        {
+                            "outline": [
+                                {
+                                    "attributes": {
+                                        "text": "No"
+                                    }
+                                },
+                                {
+                                    "outline": {
+                                        "outline": {
+                                            "attributes": {
+                                                "text": "API'S USED"
+                                            }
+                                        },
+                                        "attributes": {
+                                            "text": "Parts"
+                                        }
+                                    },
+                                    "attributes": {
+                                        "text": "Power"
+                                    }
+                                }
+                            ],
+                            "attributes": {
+                                "text": "Updates"
+                            }
+                        },
+                        {
+                            "attributes": {
+                                "text": "On-Board"
+                            }
+                        }
+                    ],
+                    "attributes": {
+                        "text": "Software"
+                    }
+                },
+                {
+                    "outline": [
+                        {
+                            "outline": {
+                                "outline": {
+                                    "attributes": {
+                                        "text": "Update subscription "
+                                    }
+                                },
+                                "attributes": {
+                                    "text": "Online"
+                                }
+                            },
+                            "attributes": {
+                                "text": "Software"
+                            }
+                        },
+                        {
+                            "outline": {
+                                "attributes": {
+                                    "text": "Onsite PM"
+                                }
+                            },
+                            "attributes": {
+                                "text": "Onsite"
+                            }
+                        }
+                    ],
+                    "attributes": {
+                        "text": "Services"
+                    }
+                }
+            ],
+            "attributes": {
+                "text": "ASSETS"
+            }
+        },
+        "attributes": {
+            "text": "ASSET STATE BLOCKS"
+        }
+    }
+}
