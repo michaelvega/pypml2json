@@ -21,17 +21,6 @@ if __name__ == "__main__":
 
         converter = bs2json()
 
-        tags = soup.findAll('outline')
-        json_list = converter.convertAll(tags)
-        json_dict = json_list[0]
-
-        json_object = json.dumps(json_dict, indent=4)
-        print(json_object)
-
-        with open("../out/sample.json", "w") as outfile:
-            json.dump(json_dict, outfile, indent=4)
-
-
         child_elements = []
 
         for child in soup.recursiveChildGenerator():
@@ -43,9 +32,27 @@ if __name__ == "__main__":
         child_elements_no_dupes = remove_duplicates(child_elements)
         print(str(child_elements_no_dupes))
 
+        """
         for element in child_elements_no_dupes:
             tprint(element)
             print(getattr(soup, element))
+        """
+
+        if "outline" in child_elements:
+            tags = soup.findAll('outline')
+            json_list = converter.convertAll(tags)
+            json_dict = json_list[0]
+
+            json_object = json.dumps(json_dict, indent=4)
+            print(json_object)
+
+            with open("../out/sample.json", "w") as outfile:
+                json.dump(json_dict, outfile, indent=4)  # Upside Down
+        else:
+            print("no outline found")
+
+
+
 
         """
         if "outline" in child_elements_no_dupes:
