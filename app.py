@@ -3,6 +3,7 @@ import os
 from bs2json import bs2json
 from bs4 import BeautifulSoup
 from flask import Flask, render_template, request
+from flask_cors import CORS
 
 
 def remove_duplicates(og_list: list) -> list:
@@ -41,6 +42,7 @@ def opml2json(opml_string):
 
 
 app = Flask(__name__)
+cors = CORS(app, resources={r'/*': {'origins': '*'}})
 
 
 @app.route('/')
@@ -79,4 +81,4 @@ def converter_post():
 
 
 if __name__ == "__main__":
-    app.run(debug=True, host='0.0.0.0', port=int(os.environ.get('PORT', 8080)))  # should be 0.0.0.0
+    app.run(debug=True, host='localhost', port=int(os.environ.get('PORT', 8080)))  # should be 0.0.0.0 and 8080
